@@ -1,0 +1,5 @@
+com\extraaedge\qa\testcases\HomePageTest.class
+com\extraaedge\qa\testcases\ParentDetailsTest.class
+com\extraaedge\qa\testcases\OnlineApplicationPageTest.class
+com\extraaedge\qa\testcases\RegistrationPageTest.class
+com\extraaedge\qa\testcases\PersonalDetailsTest.class

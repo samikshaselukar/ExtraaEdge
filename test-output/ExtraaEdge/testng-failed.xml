@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ExtraaEdge]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestApp(failed)">
+    <classes>
+      <class name="com.extraaedge.qa.testcases.PersonalDetailsTest">
+        <methods>
+          <include name="openPersonalDetails"/>
+          <include name="setUp"/>
+          <include name="fillPersonalDetails"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.extraaedge.qa.testcases.PersonalDetailsTest -->
+    </classes>
+  </test> <!-- TestApp(failed) -->
+</suite> <!-- Failed suite [ExtraaEdge] -->

@@ -1,0 +1,7 @@
+com\extraaedge\qa\pages\OnlineApplicationPage.class
+com\extraaedge\qa\pages\HomePage.class
+com\extraaedge\qa\pages\RegistrationPage.class
+com\extraaedge\qa\pages\ParentDetailsPage.class
+com\extraaedge\qa\base\TestBase.class
+com\extraaedge\qa\pages\PersonalDetailsPage.class
+com\extraaedge\qa\util\TestUtil.class
